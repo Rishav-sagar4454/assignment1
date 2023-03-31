@@ -1,0 +1,162 @@
+
+            #upper-content {
+                             background-color: #FFCD9E;
+                             height: 70vh;
+            }
+            h1 {
+                 position: absolute;
+                 width: 562px;
+                 height: 108px;
+                 left: 136px;
+                 top: 83px;
+
+                 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                 font-style: normal;
+                 font-weight: 700;
+                 font-size: 36px;
+                 line-height: 150%;
+            }
+            h3 {
+                 position: absolute;
+                 width: 495px;
+                 height: 81px;
+                 left: 136px;
+                 top: 219px;
+
+                 font-style: normal;
+                 font-weight: 500;
+                 font-size: 20px;
+                 line-height: 160%;
+
+
+                 display: flex;
+                 align-items: center;
+
+                 color: #484848;
+
+
+
+            }
+            h2 {
+                 position: absolute;
+                 width: 227px;
+                 height: 81px;
+                 left: 136px;
+                 top: 315px;
+
+                 font-family: 'Times New Roman', Times, serif;
+                 font-style: normal;
+                 font-weight: 800;
+                 font-size: 20px;
+                 line-height: 160%;
+            }
+            #lower-content {
+                            background-color: black;
+                            height: 30vh;}
+              
+            .t1 {
+                 color: #FFFFFF;
+                
+                 position: absolute;
+                 width: 216px;
+                 height: 36px;
+                 left: 191px;
+                 top: 654px;
+
+                 font-family: 'Times New Roman', Times, serif;
+                 font-style: normal;
+                 font-weight: 400;
+                 font-size: 20px;
+                 font-display: white;
+
+            }
+            .t2 {
+                 position: absolute;
+                 width: 148px;
+                 height: 36px;
+                 left: 1099px;
+                 top: 654px;
+            
+                 font-family: 'Times New Roman', Times, serif;
+                 font-style: normal;
+                 font-weight: 400;
+                 font-size: 20px;
+                 line-height: 160%;
+            
+                 text-align: right;
+            
+                 color: #FFFFFF;
+
+            }
+            .t3 {
+                 position: absolute;
+                 left: 82.42%;
+                 right: 17.33%;
+                 top: 82.63%;
+                 bottom: 16.98%;
+                 height: 10%;
+                 background: #FFCD9E;
+            }
+             .t4 {
+                  position: absolute;
+                  left: 84.81%;
+                  right: 13.66%;
+                  top: 82.25%;
+                  bottom: 15.44%;
+
+                  border: 3px solid #FFCD9E;
+            }
+             .t5 {
+                 box-sizing: border-box;
+
+                 position: absolute;
+                 width: 344px;
+                 height: 64px;
+                 left: 136px;
+                 top: 411px;
+
+                 background: #FFFFFF;
+                 border: 4px solid #000000;
+                 border-radius: 8px;
+            }
+              .t6 {
+                  position: absolute;
+                  width: 216px;
+                  height: 64px;
+                  left: 496px;
+                  top: 411px;
+
+                  font-family: 'Inter';
+                  font-style: normal;
+                  font-weight: 700;
+                  font-size: 20px;
+                  line-height: 24px;
+                  display: flex;
+                  align-items: center;
+                  text-align: center;
+
+                  color:black
+
+            }
+              .t7 {
+                 position: absolute;
+                 width: 344px;
+                 height: 61px;
+                 left: 134px;
+                 top: 479px;
+
+                 font-family: 'Inter';
+                 font-style: normal;
+                 font-weight: 500;
+                 font-size: 16px;
+                 line-height: 160%;
+
+
+                 display: flex;
+                 align-items: center;
+                 text-align: center;
+
+                 color: #FFFFFF;
+
+            }
+    
